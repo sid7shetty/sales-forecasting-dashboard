@@ -157,5 +157,7 @@ sales-forecasting-dashboard/
 ## 👨‍💻 Author
 
 Siddharth Shetty
+
 M.Sc. Artificial Intelligence
+
 BTU Cottbus-Senftenberg
